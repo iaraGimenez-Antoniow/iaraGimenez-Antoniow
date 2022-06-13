@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning as much as possible.
 - 🌱 I’m currently learning Full Stack development, and Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email: iaragimeneza@gmail.com
+- 📫 How to reach me: email: iaragimeneza@gmail.com
 - linkedin : https://www.linkedin.com/in/iara-gimenez-antoniow/
 
 <!---
